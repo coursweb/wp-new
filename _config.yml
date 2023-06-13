@@ -1,10 +1,12 @@
 remote_theme: coursweb/jk-theme
-title: WordPress
+title: WordPress (New)
 description: Un support de cours WordPress gratuit et open-source.
 lang: fr-FR
 chapters:
  - title: Cours-web
    url: https://cours-web.ch/
+ - title: WordPress (New)
+   url: https://cours-web.ch/wp-new/   
  - title: HTML
    url: https://cours-web.ch/html/
  - title: CSS
@@ -13,5 +15,5 @@ chapters:
    url: https://cours-web.ch/javascript/
  - title: Serveurs
    url: https://cours-web.ch/serveurs/
- - title: WordPress
+ - title: WordPress (Old)
    url: https://cours-web.ch/wp/
