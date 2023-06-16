@@ -15,3 +15,4 @@ Les sujets importants:
 - Templates - utiliser l'éditeur de modèles de page.
 - Ajouter du CSS Personnalisé.
 - Questions fréquentes.
+
