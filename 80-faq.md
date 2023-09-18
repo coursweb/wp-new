@@ -29,3 +29,7 @@ Liste des modèles de page inclus avec le thème Twenty Twenty-Three (on peut le
 **Question:** Si on crée un modèle "Page d’accueil", que se passe-t-il?
 
 **Réponse:** Le modèle « Page d’accueil » (en anglais : Front Page) est un modèle spécial qui a la propriété suivante: "Affiche la page d’accueil de votre site, que celle-ci soit paramétrée pour afficher les derniers articles ou une page statique. Le modèle de page d’accueil prend le pas sur tous les autres modèles."
+
+***
+
+Quelle différence entre Template Parts et Patterns ?
