@@ -27,13 +27,25 @@ Autres modèles possibles:
 
 **Question:** Comment définir une page comme page d'accueil ?
 
-Par défaut, la page d'accueil est gérée par un modèle qui se nome "Page d'accueil du blog" (en anglais: "Blog Home").
+<details>
+  <summary>Voir la réponse</summary>
+  <p>Par défaut, la page d'accueil est gérée par un modèle qui se nome "Page d'accueil du blog" (en anglais: "Blog Home").</p>
+</details>
 
+---
 
 **Question:** Si l'on créée une page, et qu'on la définit comme "page d'accueil statique" (dans Réglages : Lecture), quel sera le modèle utilisé?
 
-**Réponse:** Cette page va utiliser le modèle "Pages".
+<details>
+  <summary>Voir la réponse</summary>
+  <p>Avec cette configuration, la page d'accueil va utiliser le modèle "Pages".</p>
+</details>
+
+---
 
 **Question:** Si on crée un modèle "Page d’accueil", que se passe-t-il?
 
-**Réponse:** Le modèle « Page d’accueil » (en anglais : Front Page) est un modèle spécial qui a la propriété suivante: "Affiche la page d’accueil de votre site, que celle-ci soit paramétrée pour afficher les derniers articles ou une page statique. Le modèle de page d’accueil prend le pas sur tous les autres modèles."
+<details>
+  <summary>Voir la réponse</summary>
+  <p>Le modèle « Page d’accueil » (en anglais : Front Page) est un modèle spécial qui a la propriété suivante: "Affiche la page d’accueil de votre site, que celle-ci soit paramétrée pour afficher les derniers articles ou une page statique. Le modèle de page d’accueil prend le pas sur tous les autres modèles.</p>
+</details>
