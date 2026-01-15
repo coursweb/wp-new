@@ -1,8 +1,8 @@
----
-layout: page
-title: FAQ
-permalink: faq.html
----
+# ---
+# layout: page
+# title: FAQ
+# permalink: faq.html
+# ---
 
 Comment définir une page comme page d'accueil ?
 
@@ -22,14 +22,3 @@ Liste des modèles de page inclus avec le thème Twenty Twenty-Three (on peut le
 - **Search Results** = Résultats de recherche
 - **Single Posts** = Publications seules
 
-**Question:** Si l'on créée une page, et qu'on la définit comme "page d'accueil statique" (dans Réglages : Lecture), quel sera le modèle utilisé?
-
-**Réponse:** Cette page va utiliser le modèle "Pages".
-
-**Question:** Si on crée un modèle "Page d’accueil", que se passe-t-il?
-
-**Réponse:** Le modèle « Page d’accueil » (en anglais : Front Page) est un modèle spécial qui a la propriété suivante: "Affiche la page d’accueil de votre site, que celle-ci soit paramétrée pour afficher les derniers articles ou une page statique. Le modèle de page d’accueil prend le pas sur tous les autres modèles."
-
-***
-
-Quelle différence entre Template Parts et Patterns ?
